@@ -3,9 +3,9 @@
 
 
 ## 👨‍🚀 About Me
-I am a front-end developer specializing in ReactJS.
+I am a front-end developer specializing in ReactJS and NextJS.
 
-<h5>You can met me here</h5> <a href="https://www.linkedin.com/in/piotr-matlak/" target="_blank">
+<h5>You can meet me ⤵️</h5> <a href="https://www.linkedin.com/in/piotr-matlak/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 
