@@ -72,7 +72,6 @@ I am a front-end developer specializing in ReactJS and NextJS.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" alt="tailwindcss logo"  />
@@ -80,17 +79,16 @@ I am a front-end developer specializing in ReactJS and NextJS.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
-    <img width="12" />
+  <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-
 </div>
 
 ###
 
 <h2 align="left">💥 Projects</h2>
-<p>All my living projects from the very begening (oldest are quite silly 🤓)</p>
+<p>All my living projects from the very begening</p>
 
 ### 2024
 [**Personal Website**](https://github.com/p6te/portfolio-website)
@@ -104,15 +102,11 @@ I am a front-end developer specializing in ReactJS and NextJS.
 
 [**Note App**](https://github.com/p6te/Note-app/)
 
-### 2022
+### 2022 (selected projects)
 
 [**Budget App V2**](https://github.com/p6te/budget-app)
 
 [**Shopping Cart**](https://github.com/p6te/shopping-cart)
-
-[**Form App**](https://github.com/p6te/form-app-tests)
-
-[**Counter App**](https://github.com/p6te/counter-app-practice-testing)
 
 [**Budget App**](https://github.com/p6te/Budget-app-redux)
 
@@ -122,17 +116,9 @@ I am a front-end developer specializing in ReactJS and NextJS.
 
 [**Calculator**](https://github.com/p6te/calculator-react-app)
 
-[**Pagination App**](https://github.com/p6te/pagination-app)
-
 [**2048 Game**](https://github.com/p6te/2048---game)
 
-[**Registration Form**](https://github.com/p6te/Registration-Form)
-
-[**Product Searcher**](https://github.com/p6te/Product-searcher)
-
 [**Stoper**](https://github.com/p6te/stoper)
-
-[**Timer**](https://github.com/p6te/Timer)
 
 [**ToDo list**](https://github.com/p6te/to-do-list-)
 
@@ -144,19 +130,8 @@ I am a front-end developer specializing in ReactJS and NextJS.
 
 [**Temperature Converter**](https://github.com/p6te/Temperature-converter)
 
-[**Bill Splitter**](https://github.com/p6te/bill-splitter)
-
-[**Show doggo**](https://github.com/p6te/show-doggo)
-
-[**Scroller Project**](https://github.com/p6te/projekt-scroller)
-
-[**Ball Animation**](https://github.com/p6te/ball-throw-animation)
-
 [**Stars Animation**](https://github.com/p6te/stars-animation)
 
-[**Nutritional Values**](https://github.com/p6te/responsive-nutritional-values)
-
-[**Cosmos Animation**](https://github.com/p6te/Cosmos-animation)
 
 ###
 
@@ -167,12 +142,6 @@ I am a front-end developer specializing in ReactJS and NextJS.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=p6te&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=p6te&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=p6te&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
