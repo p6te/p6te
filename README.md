@@ -41,7 +41,7 @@ I am a front-end developer specializing in ReactJS and NextJS.
 
 ###
 
-<h2 align="left">⚔️My tech stack</h2>
+<h2 align="left">⚔️ My tech stack</h2>
 
 ###
 
@@ -88,7 +88,7 @@ I am a front-end developer specializing in ReactJS and NextJS.
 ###
 
 <h2 align="left">💥 Projects</h2>
-<p>All my living projects from the very begening</p>
+<p>My living projects from the very begening</p>
 
 ### 2024
 [**Personal Website**](https://github.com/p6te/portfolio-website)
